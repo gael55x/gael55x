@@ -1,7 +1,7 @@
 # Hello World!😄
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gael55x&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gael55x&&layout=donut-vertical&langs_count=10&theme=highcontrast&show=reviews"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gael55x&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gael55x&&layout=compact&langs_count=10&theme=highcontrast&show=reviews"/>
 </div>
 
 
@@ -18,6 +18,8 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
+##
+
 ##🤵 About gael55x
 - 👨‍🎓 A guy who's passionate in learning full stack technology
 - 🔭 I’m currently working on a school website
@@ -29,6 +31,9 @@
 - 😄 Pronouns: He, They
 - ⚡ Fun fact: I want some coffee
 
+##
+
+##
 ## Contact 📞
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=red)](gaille.amolong1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=red)](gaille.amolong1@gmail.com) - gaille.amolong1@gmail.com
 
