@@ -1,6 +1,6 @@
 # Hello World!😄
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gael55x&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gael55x&show_icons=true&theme=highcontrast&combine_all_yearly_contributions=true&count_private=true&show=reviews"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gael55x&&layout=compact&langs_count=10&theme=highcontrast&show=reviews"/>
 </div>
 
