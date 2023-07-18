@@ -18,10 +18,9 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
-##
 
-##🤵 About gael55x
-- 👨‍🎓 A guy who's passionate in learning full stack technology
+## 🤵 About gael55x
+- 👨‍🎓 A guy who's committed in learning full stack technology
 - 🔭 I’m currently working on a school website
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on a full stack web application project
@@ -33,7 +32,7 @@
 
 ##
 
-##
+
 ## Contact 📞
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=red)](gaille.amolong1@gmail.com) - gaille.amolong1@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=red)](gaille.amolong1@gmail.com) gaille.amolong1@gmail.com
 
