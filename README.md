@@ -22,7 +22,7 @@
 ## 🤵 About gael55x
 - 👨‍🎓 A guy who's committed in learning full stack technology
 - 🔭 I’m currently working on a school website
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning full stack web technology
 - 👯 I’m looking to collaborate on a full stack web application project
 - 🤞 One of my goals is to become a fullstack developer in the near future.
 - 💬 Ask me about coffee
