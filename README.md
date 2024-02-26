@@ -20,14 +20,13 @@
 
 
 ## 🤵 About gael55x
-- 👨‍🎓 A guy who's committed in learning Full-stack technology and Artificial Intelligence
+- 👨‍🎓 A guy who's committed to learning Full-stack technology and Artificial Intelligence
 - 🔭 I’m currently working for Bitwork solutions
 - 🌱 I’m currently learning Large Language Models
 - 👯 I’m looking to collaborate on an AI project
-- 🤞 One of my goals is to become an AI engineer soon.
-- 💬 Ask me about coffee
+- One of my goals is to become an AI engineer soon.
+- Ask me about AI 
 - 📫 How to reach me: gaille.amolong1@gmail.com
-- 😄 Pronouns: He, Him
 - ⚡ Fun fact: I wanna sleep 
 
 ##
