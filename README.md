@@ -5,15 +5,16 @@
 </div>
 
 ```
- _   _      _ _         __        __         _     _ 
-| | | | ___| | | ___    \ \      / /__  _ __| | __| |
-| |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` |
-|  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |
-|_| |_|\___|_|_|\___/      \_/\_/ \___/|_|  |_|\__,_|
+ __       ______  __    __       ______  ______  __  __      __      ______    
+/\ \     /\  __ \/\ "-./  \     /\  ___\/\  __ \/\ \/\ \    /\ \    /\  ___\   
+\ \ \    \ \  __ \ \ \-./\ \    \ \ \__ \ \  __ \ \ \ \ \___\ \ \___\ \  __\   
+ \ \_\    \ \_\ \_\ \_\ \ \_\    \ \_____\ \_\ \_\ \_\ \_____\ \_____\ \_____\ 
+  \/_/     \/_/\/_/\/_/  \/_/     \/_____/\/_/\/_/\/_/\/_____/\/_____/\/_____/ 
+                                                                               
 
 ```
 <div align="center">
- <em>Lead Software Developer, AI Pilipinas Cebu | Software Engineer, Bitwork Solutions | Tech Visionary | Full-Stack | AI/ML | Mobile Apps</em>
+ <em>Lead Software Developer, AI Pilipinas Cebu | Software Engineer, Bitwork Solutions
 </div>
 
 ---
@@ -26,7 +27,7 @@
 
 ## Who Am I?
 - 🏆 **Lead Software Dev** at **AI Pilipinas Cebu**  
-- 🚀 **Junior Software Engineer** at **Bitwork Solutions**  
+- 🚀 **Software Engineer** at **Bitwork Solutions**  
 - 💻 Building modern **web apps**, **mobile apps**, and **AI solutions** (image processing, LLMs, etc.)  
 - 🔐 Integrating **secure OAuth** flows and best security practices  
 - ⚡ Always exploring new tech to keep apps fast, secure, and user-friendly  
