@@ -1,58 +1,78 @@
-# Hello World! 🌏
-**Gaille Amolong** (aka **gael55x**)  
-**Lead Software Developer for AI Pilipinas Cebu & Software Engineer for Bitwork Solutions**  
+# <div align="center">**Hello, World!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gael55x&color=blue" alt="Profile Views" />
 </div>
 
-I’m a **Full-Stack Developer** driven by a passion for **AI**, **mobile apps**, and **innovative web solutions**. Whether it’s building user-friendly interfaces, crafting secure OAuth flows, or training neural networks for image recognition and LLMs—I’m all about delivering real-world impact.
-
----
-
-## About Me
-- **Roles**: 
-  - Junior Software Engineer at **Bitwork Solutions**  
-  - Lead Software Developer at **AI Pilipinas Cebu**
-- **Expertise**: React & NextJS, Django & Flask, TypeScript, TailwindCSS, Docker, OAuth, AI/ML, mobile app development
-- **Focus Areas**: 
-  - **AI Solutions**: Image processing, LLM-based chatbots  
-  - **Full-Stack Apps**: Secure web & mobile apps with top-notch UX  
-  - **Deployment**: Containerization, Cloud-based hosting
-- **Fun Fact**: Even though I’m deep into AI, I'm forever on the hunt for the perfect power nap. 
-
----
-
-## My Tech Stack
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="OAuth" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
-</div>
-
----
-
-## GitHub Stats
+```
+ _______  _______  _______  _        ______   _______ 
+(  ____ \(  ____ \(  ____ \| \    /\(  __  \ (  ____ )
+| (    \/| (    \/| (    \/|  \  / /| (  \  )| (    )|
+| |      | (__    | (_____ |  (_/ / | |   ) || (____)|
+| |      |  __)   (_____  )|   _ (  | |   | ||     __)
+| |      | (            ) ||  ( \ \ | |   ) || (\ (   
+| (____/\| (____/\/\____) ||  /  \ \| (__/  )| ) \ \__
+(_______/(_______/\_______)|_/    \/ (______/ |/   \__/
+```
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gael55x&show_icons=true&theme=highcontrast&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gael55x&layout=compact&theme=highcontrast&hide_border=true"/>
+ <em>Lead Software Developer, AI Pilipinas Cebu | Software Engineer, Bitwork Solutions | Tech Visionary | Full-Stack | AI/ML | Mobile Apps</em>
 </div>
 
 ---
 
-## Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaille.amolong1@gmail.com)
+<div align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230" />
+</div>
 
-_Interested in collaborating on AI or full-stack projects? Let’s chat!_
+---
+
+## Who Am I?
+- 🏆 **Lead Software Dev** at **AI Pilipinas Cebu**  
+- 🚀 **Junior Software Engineer** at **Bitwork Solutions**  
+- 💻 Building modern **web apps**, **mobile apps**, and **AI solutions** (image processing, LLMs, etc.)  
+- 🔐 Integrating **secure OAuth** flows and best security practices  
+- ⚡ Always exploring new tech to keep apps fast, secure, and user-friendly  
+- 💤 **Fun Fact**: I’d love to code 24/7, but I can never resist a good power nap!
+
+---
+
+## Tech Playground
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
+  <br/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="OAuth" src="https://img.shields.io/badge/OAuth-3C3C3D.svg?style=for-the-badge&logo=openid&logoColor=white"/>
+</p>
+
+---
+
+## GitHub at a Glance
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gael55x&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gael55x&layout=compact&theme=highcontrast&hide_border=true" />
+</div>
+
+---
+
+## Let’s Connect <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="40">
+**Interested in AI collabs, Full-Stack projects, or just geeking out on new tech?**  
+Reach me here:
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:gaille.amolong1@gmail.com)
+
+> **Email**: gaille.amolong1@gmail.com
+
+---
 
 <p align="center">
-  <i>Thanks for stopping by! Keep exploring, keep coding. 🚀</i>
+  <b>Thanks for visiting! May your code always compile cleanly.</b>
 </p>
