@@ -14,7 +14,7 @@
 
 ```
 <div align="center">
- <em>Lead Software Developer, AI Pilipinas Cebu | Software Engineer, Bitwork Solutions
+ <em>Software Engineer, Bitwork Solutions
 </div>
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 ## Who Am I?
-- 🏆 **Lead Software Dev** at **AI Pilipinas Cebu**  
+- 🏆 **Lead Software Volunteer Dev** at **AI Pilipinas Cebu**  
 - 🚀 **Software Engineer** at **Bitwork Solutions**  
 - 💻 Building modern **web apps**, **mobile apps**, and **AI solutions** (image processing, LLMs, etc.)  
 - 🔐 Integrating **secure OAuth** flows and best security practices  
