@@ -29,7 +29,8 @@
 - 🏆 **Lead Software Volunteer Dev** at **AI Pilipinas Cebu**  
 - 🚀 **Software Engineer** at **Bitwork Solutions**  
 - 💻 Building modern **web apps**, **mobile apps**,**staging and production pipelines**, and **AI solutions** (image processing, LLMs, etc.)
-- ☁️ Deploying and scaling on **AWS EC2, ECR, ECS, Lambda, S3, Route53, ALB, and Dockerized apps**  
+- ☁️ Deploying and scaling on **AWS EC2, ECR, ECS, Lambda, S3, Route53, ALB, Cloudflare, and Dockerized apps w/ Kubernetes and NGINX**
+- 🌐 Managing domain routing, SSL, and CDN caching with **Cloudflare**
 - 🔐 Integrating **secure OAuth** flows and best security practices  
 - ⚡ Always exploring new tech to keep apps fast, secure, and user-friendly  
 - 💤 **Fun Fact**: I’d love to code 24/7, but I can never resist a good power nap!
@@ -41,6 +42,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -48,10 +50,14 @@
   <br/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="OAuth" src="https://img.shields.io/badge/OAuth-3C3C3D.svg?style=for-the-badge&logo=openid&logoColor=white"/>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
 </p>
 
 ---
