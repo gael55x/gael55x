@@ -28,7 +28,8 @@
 ## Who Am I?
 - 🏆 **Lead Software Volunteer Dev** at **AI Pilipinas Cebu**  
 - 🚀 **Software Engineer** at **Bitwork Solutions**  
-- 💻 Building modern **web apps**, **mobile apps**, and **AI solutions** (image processing, LLMs, etc.)  
+- 💻 Building modern **web apps**, **mobile apps**,**staging and production pipelines**, and **AI solutions** (image processing, LLMs, etc.)
+- ☁️ Deploying and scaling on **AWS EC2, ECR, ECS, Lambda, S3, Route53, ALB, and Dockerized apps**  
 - 🔐 Integrating **secure OAuth** flows and best security practices  
 - ⚡ Always exploring new tech to keep apps fast, secure, and user-friendly  
 - 💤 **Fun Fact**: I’d love to code 24/7, but I can never resist a good power nap!
@@ -47,6 +48,7 @@
   <br/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="OAuth" src="https://img.shields.io/badge/OAuth-3C3C3D.svg?style=for-the-badge&logo=openid&logoColor=white"/>
