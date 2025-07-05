@@ -27,7 +27,7 @@
 
 ## Who Am I?
 - 🏆 **Lead Software Engineer** at **Bitwork Solutions**  
-- 🚀 **Lead Software Volunteer Dev** at **AI Pilipinas Cebu** 
+- 🚀 Formerly a **Lead Software Volunteer Dev** at **AI Pilipinas Cebu** 
 - 💻 Building modern **web apps**, **mobile apps**,**staging and production pipelines**, and **AI solutions** (image processing, LLMs, etc.)
 - ☁️ Deploying and scaling on **AWS EC2, ECR, ECS, Lambda, S3, Route53, ALB, Cloudflare, and Dockerized apps w/ Kubernetes and NGINX**
 - 🌐 Managing domain routing, SSL, and CDN caching with **Cloudflare**
