@@ -77,8 +77,6 @@ Reach me here:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:gaille.amolong1@gmail.com)
 
 
-thnx gpt for giving me this good ahh template :pp
-
 > **Email**: gaille.amolong1@gmail.com
 
 ---
@@ -86,3 +84,9 @@ thnx gpt for giving me this good ahh template :pp
 <p align="center">
   <b>Thanks for visiting! May your code always compile cleanly.</b>
 </p>
+
+
+
+
+
+thnx gpt for giving me this good ahh template :pp
