@@ -14,7 +14,7 @@
 
 ```
 <div align="center">
- <em>Lead Software Engineer, Bitwork Solutions
+ <em>"Big money is silent"
 </div>
 
 ---
@@ -26,8 +26,8 @@
 ---
 
 ## Who Am I?
-- 🏆 **Lead Software Engineer** at **Bitwork Solutions**
-- 🚀 **Software Engineer** at **Willed**
+- 🏆 Currently a **Lead Software Engineer** at **Bitwork Solutions**
+- 🚀 Currently a **Software Engineer** at **Willed**
 - 🚀 Formerly a **Lead Software Volunteer Dev** at **AI Pilipinas Cebu** 
 - 💻 Building modern **web apps**, **mobile apps**,**staging and production pipelines**, and **AI solutions** (image processing, LLMs, etc.)
 - ☁️ Deploying and scaling on **AWS EC2, ECR, ECS, Lambda, S3, Route53, ALB, Cloudflare, and Dockerized apps w/ Kubernetes and NGINX**
