@@ -14,7 +14,7 @@
 
 ```
 <div align="center">
- <em>"Big money is silent"
+ <em>"Hello"
 </div>
 
 ---
