@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gael55x&color=FFFFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=gael55x&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
