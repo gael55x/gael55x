@@ -38,7 +38,7 @@ focus:
 
 leetcode:   Top 9% globally — still grinding.
 
-building:   Something of my own. Soon.
+building:   Codemm - An AI Agent that generates Coding problems with test cases
 
 fun_fact: >
   Would code 24/7, but power naps are non-negotiable.
