@@ -28,6 +28,7 @@ role:
   - Software Engineer         @ Willed
   - Freelance SWE             @ Referrin Health
   - Former Lead Volunteer Dev @ AI Pilipinas Cebu
+  - Former Technical Writer   @ Scriptonomy
 
 focus:
   - Full-stack web & mobile applications
