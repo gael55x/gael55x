@@ -39,7 +39,9 @@ focus:
 
 leetcode:   Top 9% globally — still grinding.
 
-building:   Codemm - An AI Agent that generates Coding problems with test cases
+building:   
+   - Codemm : An AI Agent that generates Coding problems with test cases
+   - Grape  : The context build system for AI coding agents.
 
 fun_fact: >
   Would code 24/7, but power naps are non-negotiable.
