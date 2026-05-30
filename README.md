@@ -26,7 +26,6 @@ location:   Cebu, Philippines 🇵🇭
 role:
   - Lead Software Engineer    @ BitWork Solutions
   - Software Engineer         @ Willed
-  - Freelance SWE             @ Referrin Health
   - Former Lead Volunteer Dev @ AI Pilipinas Cebu
   - Former Technical Writer   @ Scriptonomy
 
