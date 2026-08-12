@@ -24,11 +24,11 @@ alias:      gael55x
 location:   Cebu, Philippines 🇵🇭
 
 role:
-  - Lead Software Engineer    @ BitWork Solutions
-  - Software Engineer         @ Willed
-  - Freelance SWE             @ Referrin Health
-  - Former Lead Volunteer Dev @ AI Pilipinas Cebu
-  - Former Technical Writer   @ Scriptonomy
+  - Lead Software Engineer / Technical Founder    @ BitWork Solutions
+  - Senior Software Engineer                      @ Willed
+  - Freelance SWE                                 @ Referrin Health
+  - Former Lead Volunteer Dev                     @ AI Pilipinas Cebu
+  - Former Technical Writer                       @ Scriptonomy
 
 focus:
   - Full-stack web & mobile applications
