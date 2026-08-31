@@ -23,14 +23,6 @@ name:       Gaille Amolong
 alias:      gael55x
 location:   Cebu, Philippines 🇵🇭
 
-role:
-  - Senior Software Engineer                      @ Willed
-  - Technical Founder                             @ BitWork Solutions
-  - Former Lead Software Engineer                 @ BitWork Solutions
-  - Former Software Engineer                      @ Referrin Health
-  - Former Lead Volunteer Dev                     @ AI Pilipinas Cebu
-  - Former Technical Writer                       @ Scriptonomy
-
 focus:
   - Full-stack web & mobile applications
   - Cloud infrastructure (AWS, Cloudflare)
